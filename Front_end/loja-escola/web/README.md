@@ -210,3 +210,4 @@ Vocês podem pesquisar documentação, exemplos e referências e podem conversar
 > O que este código faz, por que ele está aqui e como sabemos que funciona?
 
 Divirtam-se com a ideia. Quanto mais estranha for a loja, mais importante será tornar sua interface clara, consistente e agradável de usar.
+dsadsa
